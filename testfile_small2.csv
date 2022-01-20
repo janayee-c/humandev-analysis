@@ -1,0 +1,13 @@
+HDI Rank,Country,Human Development Index (HDI),Life Expectancy at Birth,Expected Years of Education,Mean Years of Education,Gross National Income (GNI) per Capita,GNI per Capita Rank Minus HDI Rank
+184,Burundi,0.4,56.7,10.1,2.7,758,1
+185,Chad,0.392,51.6,7.4,1.9,2085,-22
+186,Eritrea,0.391,63.7,4.1,3.9,1130,-6
+187,Central African Republic,0.35,50.7,7.2,4.2,581,1
+188,Niger,0.348,61.4,5.4,1.5,908,-5
+,Arab States,0.686,70.6,12,6.4,15722,
+,East Asia and the Pacific,0.71,74,12.7,7.5,11449,
+,Europe and Central Asia,0.748,72.3,13.6,10,12791,
+,Latin America and the Caribbean,0.748,75,14,8.2,14242,
+,South Asia,0.607,68.4,11.2,5.5,5605,
+,Sub-Saharan Africa,0.518,58.5,9.6,5.2,3363,
+,World,0.711,71.5,12.2,7.9,14301,

@@ -1,0 +1,12 @@
+HDI Rank,Country,Human Development Index (HDI),Life Expectancy at Birth,Expected Years of Education,Mean Years of Education,Gross National Income (GNI) per Capita,GNI per Capita Rank Minus HDI Rank
+1,Norway,0.944,81.6,17.5,12.6,64992,5
+2,Australia,0.935,82.4,20.2,13,42261,17
+52,Oman,0.793,76.8,13.6,8,34858,-23
+52,Romania,0.793,74.7,14.2,10.8,18108,10
+55,Bahamas,0.79,75.4,12.6,10.9,21336,-3
+,East Asia and the Pacific,0.71,74,12.7,7.5,11449,
+,Europe and Central Asia,0.748,72.3,13.6,10,12791,
+,Latin America and the Caribbean,0.748,75,14,8.2,14242,
+,South Asia,0.607,68.4,11.2,5.5,5605,
+,Sub-Saharan Africa,0.518,58.5,9.6,5.2,3363,
+,World,0.711,71.5,12.2,7.9,14301,
